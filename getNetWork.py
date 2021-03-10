@@ -13,6 +13,9 @@ def get_netcard():
                     # netcard_info.append((k, item[1]))
                     netcard_info.append(item[1])
         print("K",k)
+        #test
     return netcard_info
 if __name__ == '__main__':
     print(get_netcard())
+
+
